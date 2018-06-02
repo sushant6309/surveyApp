@@ -60,3 +60,5 @@ typings/
 .env
 .idea
 
+
+config/dev.js
